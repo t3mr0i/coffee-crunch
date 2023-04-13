@@ -1,4 +1,4 @@
-const { Coffee } = require("../models");
+const { Coffee } = require("../models/Coffee");
 
 exports.addCoffee = async (req, res) => {
   try {
