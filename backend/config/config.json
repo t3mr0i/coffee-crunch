@@ -1,7 +1,7 @@
 {
     "development": {
-      "username": "username",
-      "password": "password",
+      "username": "t3mr0i",
+      "password": "kai999",
       "database": "coffee_app",
       "host": "127.0.0.1",
       "dialect": "mysql"
